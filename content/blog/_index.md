@@ -1,5 +1,7 @@
 ---
-title: "Blog"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
+title: Blog de Manuel
+date: 2020-12-28T07:14:34+00:00
+description: Sait tienda en línea digitaliza tu proceso de ventas.
+image: "/images/logotienda.png"
+
 ---
